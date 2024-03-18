@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoyamKapoor
 - 👀 I’m interested in Programming and cloud 
-- 🌱 I’m currently learning C++ programming Language
+- 🌱 Experience C++ Console based programmer, Java GUI Programer
 - 📫 you can email me on kapoorsoyam4@gmail.com
 
 <!---
