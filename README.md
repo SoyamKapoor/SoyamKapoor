@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoyamKapoor
-- 👀 I’m interested in Programming and cloud 
-- 🌱 Experience C++ Console based programmer, Java GUI Programer
+- 👀 I’m interested in DevOps and Cloud Engineering
+- 🌱 Experienced C++ Console based programmer, Java GUI Programer, Arduino Programmer
 - 📫 you can email me on kapoorsoyam4@gmail.com
 
 <!---
